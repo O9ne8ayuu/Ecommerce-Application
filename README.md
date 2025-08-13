@@ -99,6 +99,8 @@ npm start
 
  ## for both (frontend and backend ) use proxy server : port : 8080
 
+npm run dev 
+
   📸 Screenshots
 
 ( screenshots here)
