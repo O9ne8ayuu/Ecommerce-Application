@@ -2,9 +2,9 @@
 
 
 
-
-<img width="558" height="539" alt="Screenshot 2025-07-04 032344" src="https://github.com/user-attachments/assets/5848e007-ad65-486f-ae74-63d4f46d6038" />
 <img width="1885" height="727" alt="Screenshot 2025-07-04 015227" src="https://github.com/user-attachments/assets/092f05f2-62b3-4345-ac4d-118582060bd2" />
+<img width="558" height="539" alt="Screenshot 2025-07-04 032344" src="https://github.com/user-attachments/assets/5848e007-ad65-486f-ae74-63d4f46d6038" />
+
 <img width="1912" height="928" alt="Screenshot 2025-08-08 064338" src="https://github.com/user-attachments/assets/e4fea00b-8c57-403f-80a6-c78a14c8c463" />
 <img width="1874" height="927" alt="Screenshot 2025-08-08 064208" src="https://github.com/user-attachments/assets/7fbbbde4-e808-4c6e-8108-513a29971d5d" />
 
@@ -102,17 +102,6 @@ npm start
   📸 Screenshots
 
 ( screenshots here)
-
-
-
-<img width="1912" height="928" alt="Screenshot 2025-08-08 064338" src="https://github.com/user-attachments/assets/2f40e419-e9b9-450d-a4fa-0e1f97f24fbc" />
-<img width="1874" height="927" alt="Screenshot 2025-08-08 064208" src="https://github.com/user-attachments/assets/840bc151-1f00-4ac8-8855-8cb4c5d8d0a6" />
-<img width="2472" height="2912" alt="localhost_3000_payment (1)" src="https://github.com/user-attachments/assets/564a18f9-8295-412e-ae52-67ebf02b960b" />
-<img width="2472" height="3024" alt="localhost_3000_payment" src="https://github.com/user-attachments/assets/9204db49-7fe0-42f5-83a5-63c148286bee" />
-<img width="1889" height="927" alt="Screenshot 2025-08-08 062053" src="https://github.com/user-attachments/assets/52b0ad20-165f-4e8b-a1cf-e66f35217af3" />
-<img width="1907" height="925" alt="Screenshot 2025-08-08 062126" src="https://github.com/user-attachments/assets/7cc451ad-73c9-4cf6-8944-4385e9c97ea5" />
-<img width="558" height="539" alt="Screenshot 2025-07-04 032344" src="https://github.com/user-attachments/assets/f5ae9b52-bd8b-432f-bb5e-663a487c1b11" />
-<img width="2514" height="4762" alt="localhost_3000_" src="https://github.com/user-attachments/assets/ddd86a8e-a1d1-4400-92c7-1b3805e9546f" />
 
 
 ---
